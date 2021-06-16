@@ -13,3 +13,9 @@ To analyze the data just plug the MicroSD into your computer and make a copy of 
 Open `Excel` or `Google Sheets` and import the data (`file>import`) and separate the columns with the `,` (comma).
 At this point you can make everything you want with the data.
 
+## Parts list
+
+ - **Arduino uno** (or every arduino you want, i would use an Arduino Nano) [Ebay](https://www.ebay.it/itm/331535576930?hash=item4d310f6f62:g:W8oAAOSwnbZYDgl1)
+ - **Real Time Clock Module** `DS1302` [Ebay](https://www.ebay.it/itm/173861088473?hash=item287aedacd9:g:PgcAAOSw5CZcpGjj) 
+ - **SD Card Reader Module** [Ebay](https://www.ebay.it/itm/111773200314?ssPageName=STRK:MEBIDX:IT&_trksid=p2060353.m2749.l2648)
+ - **Sound Sensor Module** [Ebay](https://www.ebay.it/itm/111662632326?ssPageName=STRK:MEBIDX:IT&_trksid=p2060353.m2749.l2648)
