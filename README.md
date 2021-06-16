@@ -19,3 +19,15 @@ At this point you can make everything you want with the data.
  - **Real Time Clock Module** `DS1302` [Ebay](https://www.ebay.it/itm/173861088473?hash=item287aedacd9:g:PgcAAOSw5CZcpGjj) 
  - **SD Card Reader Module** [Ebay](https://www.ebay.it/itm/111773200314?ssPageName=STRK:MEBIDX:IT&_trksid=p2060353.m2749.l2648)
  - **Sound Sensor Module** [Ebay](https://www.ebay.it/itm/111662632326?ssPageName=STRK:MEBIDX:IT&_trksid=p2060353.m2749.l2648)
+ - **3D Printer** `for the housing`
+ - **A couple of days**
+## Prepare The Voice Messages
+In order to play your sounds on the Arduino you have to convert them to a specific `.wav` file. 
+ - **Record the voice message**: Record it as you want, but i had a lot of problems. This [Website](https://voice-recorder-online.com/it/) worked for me.
+ - **Convert the voice message**: Now you have to convert the audio on this [Website](https://audio.online-convert.com/convert-to-wav) with the following parameters: 
+`Bit resolution: 8 bit`
+ `Sampling rate: 16000` 
+ `Audio channels: mono` 
+ `PCM Format: PCM unsigned 8 bit`
+ ## 3D Model
+ Thingiverse: 
